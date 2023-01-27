@@ -1,4 +1,4 @@
-# Japanese company name extraction
+# Japanese company extraction
 
 This API extracts Japanese company names from text.
 
@@ -11,8 +11,8 @@ This API extracts Japanese company names from text.
 ### 1. Setup
 
 ```sh
-git clone https://github.com/Doarakko/japanese-company-name-extraction
-cd japanese-company-name-extraction
+git clone https://github.com/Doarakko/japanese-company-extraction
+cd japanese-company-extraction
 ```
 
 ### 2. Run

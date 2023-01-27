@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    container_name: japanese-company-name-extraction-app
+    container_name: japanese-company-extraction-app
     build: ./app
     volumes:
       - ./app:/app

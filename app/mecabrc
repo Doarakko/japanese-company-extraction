@@ -1,0 +1,10 @@
+;dicdir = /usr/local/lib/mecab/dic/ipadic
+dicdir = /usr/local/lib/mecab/dic/mecab-ipadic-neologd
+;dicdir = /usr/local/lib/mecab/dic/jumandic
+;dicdir = /usr/local/lib/mecab/dic/unidic
+userdic = /usr/local/lib/mecab/dic/user_dict/jcl_slim_mecab.dic
+; output-format-type = wakati
+; input-buffer-size = 8192
+; node-format = %mn
+; bos-format = %Sn
+; eos-format = EOSn

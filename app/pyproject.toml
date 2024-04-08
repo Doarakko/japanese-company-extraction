@@ -8,7 +8,7 @@ authors = ["peperoncino <2wua4nlyi@gmail.com>"]
 python = "^3.9"
 mecab-python3 = "^1.0.6"
 uvicorn = {extras = ["standard"], version = "^0.20.0"}
-fastapi = "^0.97.0"
+fastapi = "^0.110.1"
 python-multipart = "^0.0.6"
 
 [tool.poetry.dev-dependencies]
